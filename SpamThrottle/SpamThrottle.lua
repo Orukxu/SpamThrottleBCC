@@ -3,7 +3,7 @@
 
 	Version:	3.0
 	Date:		06 Jul 2021
-	Author:	Helltoast (a.k.a. Orukxu)
+	Author:	Helltoast-Faerlina (a.k.a. Orukxu)
 
 	Only allows a particular message to be displayed once, rather than repeated.
 	This happens under several different circumstances -
