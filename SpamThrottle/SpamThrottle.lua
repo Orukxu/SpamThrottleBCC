@@ -2,7 +2,7 @@
 	SpamThrottle - Remove redundant and annoying chat messages
 
 	Version:	3.0
-	Date:		05 Jul 2021
+	Date:		06 Jul 2021
 	Author:	Helltoast (a.k.a. Orukxu)
 
 	Only allows a particular message to be displayed once, rather than repeated.
