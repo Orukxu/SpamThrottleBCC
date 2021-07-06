@@ -5,7 +5,7 @@ Burning Crusade Classic WoW addon to remove primarily duplicated messages on bus
 To install, click the "Download ZIP" button on the right hand side (above), which will download the SpamThrottleBCC-master.zip file. Inside that ZIP archive there is a folder called SpamThrottle. Copy that folder into the Interface/Addons directory under your main WoW installation.
 
 	Version:	3.0 (BCC)
-	Date:		5 July 2021
+	Date:		6 July 2021
 	Author:		Helltoast-Faerlina (a.k.a. Orukxu, original creator of SpamThrottle)
 
 On many servers the world chat channels are unusable.  On some full servers, many people spam the channel to increase the visibility of their messages (or just be a general nuisance) by making macros and repeating the message once every few minutes.  This means you spend more time reading crap and less time interacting with normal people. I finally got fed up enough with that to update my previous retail version of ST for TBC classic. However I had problems originally with the GUI, so I haven't implemented that - this is the version using command line controls, and with no gold seller filtering (since it isn't needed).
