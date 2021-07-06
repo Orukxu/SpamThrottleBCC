@@ -63,22 +63,5 @@ Usage:
 	The settings are remembered account-wide (affects all characters).
 
 Changes:
-	1.0 (12/04/2009): Initial release
-	1.0 (12/07/2009): Quick fix to change sense of one comparison, to ensure that comparison against uninitialized table entries would work properly
-	1.1 (12/08/2009): Update to WoW Release 3.3.0
-	1.2 (01/03/2010): Patch to handle multiple windows and certain addon conflicts.
-	1.3 (01/07/2010): Updated to add settable gap value, and changed event handling to work more elegantly.  Also added variable migration for previous versions.
-	1.4 (03/02/2010): Added /y channel filtering. Also implemented a fuzzy heuristic filter to match repeats, so it now filters out spam from drunk chars, and most attempts to defeat spamthrottle.
-	2.0 (16/10/2010): Updated to work with 4.0.1.  Some event handler argument changes were put in place by Blizzard.
-	2.1 (26/04/2011): Updated to patch 4.1.  No changes needed, just version change.
-	2.2 (30/11/2011): Updated to patch 4.3.  No changes needed, just version change.
+	3.0 (07/06/2021): Initial release of revised original retail version for BCC
 
-	2.3 (29/08/2012): Updated to patch 5.0.1.  No changes needed, just version change.
-	2.4 (06/02/2013): Updated to patch 5.1.  No changes needed, just version change.
-	2.5 (03/04/2013): Updated to patch 5.2.  No changes needed, just version change.
-	2.6 (27/05/2013): Updated to patch 5.3.  No changes needed, just version change.
-	2.7 (12/11/2013): Updated to patch 5.4.  No changes needed, just version change.
-	3.0 (5/5/2021): I finally got fed up with BCC spam on Faerlina to create a BCC version.
-Acknowledgements:
-	This addon was inspired by ASSFilter, created by Yewbacca.
-	Thanks to Tori of Blackrock for helping with some of the event handler code.  Much appreciated!
