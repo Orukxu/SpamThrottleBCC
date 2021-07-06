@@ -1,7 +1,7 @@
 SpamThrottle (Eliminates duplicated messages in chat channels)
 
 	Version:	3.0 (BCC)
-	Date:		5 July 2021
+	Date:		6 July 2021
 	Author:		Helltoast-Faerlina (a.k.a. Orukxu, original creator of SpamThrottle)
 
 On many servers the world chat channels are unusable.  On some full servers, many people spam the channel to increase the visibility of their messages (or just be a general nuisance) by making macros and repeating the message once every few minutes.  This means you spend more time reading crap and less time interacting with normal people.
