@@ -2,7 +2,7 @@
 ## Title: SpamThrottle
 ## Notes: Eliminates repeated messages in Trade Chat
 ## SavedVariables: SpamThrottleSettings
-## Author: Helltoast
+## Author: Helltoast-Faerlina
 ## Version: v3.0
 
 SpamThrottle.lua
